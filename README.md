@@ -19,26 +19,6 @@ Currently, my core focus is on bridging the gap between advanced software archit
 * **AGI Development:** Advancing LLM and AGI foundations through hardware-level AI optimization.
 * **Advanced Security:** Exploring deception technology and quantum-secure authentication to defend against unauthorized server access.
 
-### ✅ Featured Projects
-
-**MeetClone**
-
-A production-ready WebRTC video conferencing platform built for seamless real-time communication, successfully deployed and configured with Nginx.
-
-**Karma Ledger Engine**
-
-A robust monitoring and security backend engine developed using FastAPI, designed to handle high-performance ledger logic.
-
-**Enterprise Microservices Modernization**
-
-Spearheaded the upgrade of a complex parent-child microservices ecosystem from legacy Java 8 to Java 21, optimizing build processes and overall system performance.
-
-**Personal AI Assistant**
-
-GenAI-powered assistant with contextual understanding, vector-based memory, and intelligent workflow automation.
-
-*Tech Stack:* Python, FastAPI, LangChain, Redis, OpenAI API
-
 ### 📫 Connect
 
 * **GitHub:** [https://github.com/jn0091](https://github.com/jn0091)
